@@ -13,7 +13,6 @@ Johannesburg, Gauteng, South Africa
 ---
 
 ## 📧 Contact
-- **Email:** [mofentse0@gmail.com](mailto:mofentse0@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ofentse-vilakazi-907969278](https://www.linkedin.com/in/ofentse-vilakazi-907969278)
 
 ---
@@ -23,9 +22,6 @@ Johannesburg, Gauteng, South Africa
 **🎓 Belgium Campus ITversity**  
 _Bachelor of Information Technology, Information Technology_  
 📅 *January 2024 – December 2026*
-
-**🏫 Blue Hills Schools**  
-📅 *January 2018 – December 2022*
 
 ---
 
