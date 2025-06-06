@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ofentse Vilakazi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B2B2&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;IT+Student+%7C+1st+Year;Learning+C%23%2C+HTML%2C+CSS+and+more" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B2B2&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;IT+Student+%7C+2nd+Year;Learning+C%23%2C+HTML%2C+CSS+and+more" alt="Typing SVG" />
 </p>
 
 ---
