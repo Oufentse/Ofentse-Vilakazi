@@ -32,14 +32,14 @@
 ## 💻 Tools & Technologies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.gif" height="40" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="40" style="animation:spin 2s linear infinite;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+  <img src="https://img.icons8.com/color/48/html-5--v1.gif" title="HTML5" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.gif" title="CSS3" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.gif" title="JavaScript" alt="JavaScript"/>
+  <img src="https://img.icons8.com/office/40/react--v1.gif" title="React" alt="React"/>
+  <img src="https://img.icons8.com/color/48/nodejs.gif" title="Node.js" alt="Node.js"/>
+  <img src="https://img.icons8.com/ios/50/sql.png" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-solidity-an-object-oriented-programming-language-for-writing-smart-contracts-logo-color-tal-revivo.png" title="Solidity/Web3" alt="Solidity"/>
 </p>
 
 
