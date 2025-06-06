@@ -4,6 +4,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B2B2&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Gamer;2nd+Year+Bachelor+of+IT+Student;Aspiring+Full-Stack+Developer;JavaScript+%7C+Node+%7C+React+%7C+PostgreSQL+%7C+Web3+%7C+DApps" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oufentse&label=Profile+Views&color=00B2B2&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 🌸 A Little Motivation
+
+> *"Start where you are. Use what you have. Do what you can."* – Arthur Ashe  
+> ✨ Keep coding, keep dreaming, and never stop learning.
+
 ---
 
 ## 👨🏽‍💻 About Me
@@ -31,6 +42,16 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
 </p>
+
+---
+
+## 💬 I'm Always Interested In...
+
+- 🌍 Tech that solves real-world problems  
+- 🧠 Collaborating on open-source and university projects  
+- 🕹️ Game design and development  
+- 💼 Internships or mentorships to grow as a full-stack dev  
+- 📈 Building apps that help people grow, connect, or learn
 
 ---
 
