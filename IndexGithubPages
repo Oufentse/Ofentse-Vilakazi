@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ofentse Vilakazi Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background: #f0f8f8;
+      color: #003333;
+    }
+    h1 {
+      text-align: center;
+      color: #00b2b2;
+    }
+    .center {
+      text-align: center;
+    }
+    a {
+      color: #006666;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Hi there, I'm Ofentse Vilakazi 👋</h1>
+  <p class="center">Web Developer | Gamer | 2nd Year Bachelor of IT Student</p>
+
+  <h2>About Me</h2>
+  <ul>
+    <li>🎓 2nd-year Bachelor of Information Technology student from South Africa</li>
+    <li>🧠 Passionate Web Developer and avid Gamer</li>
+    <li>🌐 Focused on becoming a Full-Stack Developer</li>
+    <li>💻 Currently working with JavaScript, Node.js, React, PostgreSQL, Web3, and DApps</li>
+  </ul>
+
+  <h2>Tools & Technologies</h2>
+  <p>
+    JavaScript, Node.js, React, PostgreSQL, Web3, DApps, C#, HTML5, CSS3, Microsoft Access
+  </p>
+
+  <h2>Connect With Me</h2>
+  <p class="center">
+    <a href="https://github.com/Oufentse" target="_blank">GitHub</a> | 
+    <a href="https://www.linkedin.com/in/ofentse-vilakazi-907969278" target="_blank">LinkedIn</a>
+  </p>
+
+</body>
+</html>
