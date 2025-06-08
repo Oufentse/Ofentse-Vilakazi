@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ofentse Vilakazi Portfolio</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f0f8f8;
+      color: #003333;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+    h1, h2, h3 {
+      text-align: center;
+      color: #00b2b2;
+    }
+    .center {
+      text-align: center;
+    }
+    .badges img {
+      margin: 4px;
+    }
+    a {
+      color: #006666;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #00b2b2;
+      margin: 2rem 0;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Hi there, I'm Ofentse Vilakazi 👋</h1>
+
+  <div class="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B2B2&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Gamer;2nd+Year+Bachelor+of+IT+Student;Aspiring+Full-Stack+Developer;JavaScript+%7C+Node+%7C+React+%7C+PostgreSQL+%7C+Web3+%7C+DApps" alt="Typing SVG" />
+    <br />
+    <img src="https://komarev.com/ghpvc/?username=Oufentse&label=Profile+Views&color=00B2B2&style=flat" alt="Profile Views" />
+  </div>
+
+  <hr />
+
+  <h2>🌸 A Little Motivation</h2>
+  <p class="center">
+    <em>"Start where you are. Use what you have. Do what you can." – Arthur Ashe</em><br />
+    ✨ Keep coding, keep dreaming, and never stop learning.
+  </p>
+
+  <hr />
+
+  <h2>👨🏽‍💻 About Me</h2>
+  <ul>
+    <li>🎓 2nd-year <strong>Bachelor of Information Technology student</strong> from South Africa</li>
+    <li>🧠 Passionate <strong>Web Developer</strong> and avid <strong>Gamer</strong></li>
+    <li>🌐 Focused on becoming a <strong>Full-Stack Developer</strong></li>
+    <li>💡 Currently learning and building with:
+      <ul>
+        <li>JavaScript, Node.js, React, PostgreSQL, Web3, and DApps</li>
+      </ul>
+    </li>
+    <li>🚧 Working on portfolio projects and personal web apps</li>
+  </ul>
+
+  <hr />
+
+  <h2>💻 Tools & Technologies</h2>
+  <div class="badges center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Web3-ecf0f1?style=for-the-badge&logo=ethereum&logoColor=black"/>
+    <img src="https://img.shields.io/badge/DApp-2C2C2C?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
+  </div>
+
+  <hr />
+
+  <h2>💬 I'm Always Interested In...</h2>
+  <ul>
+    <li>🌍 Tech that solves real-world problems</li>
+    <li>🧠 Collaborating on open-source and university projects</li>
+    <li>🕹️ Game design and development</li>
+    <li>💼 Internships or mentorships to grow as a full-stack dev</li>
+    <li>📈 Building apps that help people grow, connect, or learn</li>
+  </ul>
+
+  <hr />
+
+  <h2>📊 GitHub Stats</h2>
+  <div class="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Oufentse&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br /><br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oufentse&theme=tokyonight" alt="GitHub Streak" />
+  </div>
+
+  <hr />
+
+  <h2>🌐 Connect With Me</h2>
+  <div class="center">
+    <a href="https://www.linkedin.com/in/ofentse-vilakazi-907969278" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <br /><br />
+    <a href="https://github.com/Oufentse" target="_blank">GitHub</a>
+  </div>
+
+</body>
+</html>
