@@ -1,42 +1,74 @@
+<h1 align="center">Hi there, I'm Ofentse Vilakazi 👋</h1>
 
-# 👋 Hi, I'm Ofentse Vilakazi
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B2B2&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Gamer;2nd+Year+Bachelor+of+IT+Student;Aspiring+Full-Stack+Developer;JavaScript+%7C+Node+%7C+React+%7C+PostgreSQL+%7C+Web3+%7C+DApps" alt="Typing SVG" />
+</p>
 
-🎓 **Student at Belgium Campus ITversity**  
-💻 **Aspiring Web Developer**  
-🎮 **Gamer**
-
----
-
-## 📍 Location
-Johannesburg, Gauteng, South Africa
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oufentse&label=Profile+Views&color=00B2B2&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 📧 Contact
-- **Email:** [mofentse0@gmail.com](mailto:mofentse0@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ofentse-vilakazi-907969278](https://www.linkedin.com/in/ofentse-vilakazi-907969278)
+### 🌸 A Little Motivation
+
+> *"Start where you are. Use what you have. Do what you can."* – Arthur Ashe  
+> ✨ Keep coding, keep dreaming, and never stop learning.
 
 ---
 
-## 🎓 Education
+## 👨🏽‍💻 About Me
 
-**🎓 Belgium Campus ITversity**  
-_Bachelor of Information Technology, Information Technology_  
-📅 *January 2024 – December 2026*
-
-**🏫 Blue Hills Schools**  
-📅 *January 2018 – December 2022*
-
----
-
-## 🧠 Top Skills
-- Analytical Skills
+- 🎓 I'm a 2nd-year **Bachelor of Information Technology student** from South Africa  
+- 🧠 Passionate **Web Developer** and avid **Gamer**  
+- 🌐 I’m focused on becoming a **Full-Stack Developer**
+- 💡 Currently learning and building with:
+  - **JavaScript**, **Node.js**, **React**, **PostgreSQL**, **Web3**, and **DApps**
+- 🚧 Working on portfolio projects and personal web apps
 
 ---
 
-## 🔍 About Me
-I'm a dedicated IT student with a passion for web development and gaming. Currently pursuing my degree at Belgium Campus ITversity, I enjoy solving complex problems, learning new technologies, and building practical projects that enhance my skills.
+## 💻 Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3-ecf0f1?style=for-the-badge&logo=ethereum&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DApp-2C2C2C?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
+</p>
 
 ---
 
-<!-- You can add more sections below such as Projects, Certifications, or Interests -->
+## 💬 I'm Always Interested In...
+
+- 🌍 Tech that solves real-world problems  
+- 🧠 Collaborating on open-source and university projects  
+- 🕹️ Game design and development  
+- 💼 Internships or mentorships to grow as a full-stack dev  
+- 📈 Building apps that help people grow, connect, or learn
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oufentse&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oufentse&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ofentse-vilakazi-907969278"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
